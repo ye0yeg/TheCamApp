@@ -4,9 +4,6 @@ import android.content.Context;
 import android.content.res.AssetManager;
 import android.os.Environment;
 
-import com.stickercamera.App;
-import com.stickercamera.app.model.PhotoItem;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileFilter;
@@ -18,6 +15,9 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
+
+import lol.ye0yeg.thecamapp.app.model.PhotoItem;
+import lol.ye0yeg.thecamapp.stickercamera.App;
 
 public class FileUtils {
 

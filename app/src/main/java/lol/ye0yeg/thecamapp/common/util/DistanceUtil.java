@@ -1,6 +1,7 @@
 package lol.ye0yeg.thecamapp.common.util;
 
-import com.stickercamera.App;
+
+import lol.ye0yeg.thecamapp.stickercamera.App;
 
 public class DistanceUtil {
 

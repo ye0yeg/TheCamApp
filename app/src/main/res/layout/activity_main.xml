@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     >
 
-    <com.customview.CommonTitleBar
+    <lol.ye0yeg.thecamapp.com.customview.CommonTitleBar
         android:id="@+id/title_layout"
         style="@style/head_default"
         app:titleTxt="Cam"/>

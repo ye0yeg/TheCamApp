@@ -1,4 +1,4 @@
-package com.customview;
+package lol.ye0yeg.thecamapp.com.customview;
 
 
 import android.content.Context;
@@ -12,7 +12,6 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import lol.ye0yeg.thecamapp.R;
-import lol.ye0yeg.thecamapp.com.customview.GlobalLimitClickOnClickListener;
 
 
 /**

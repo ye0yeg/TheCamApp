@@ -11,10 +11,6 @@ import android.net.Uri;
 import android.os.AsyncTask;
 import android.provider.MediaStore;
 
-import com.stickercamera.App;
-import com.stickercamera.app.model.Album;
-import com.stickercamera.app.model.PhotoItem;
-
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -29,6 +25,10 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import lol.ye0yeg.thecamapp.app.model.Album;
+import lol.ye0yeg.thecamapp.app.model.PhotoItem;
+import lol.ye0yeg.thecamapp.stickercamera.App;
 
 
 /**

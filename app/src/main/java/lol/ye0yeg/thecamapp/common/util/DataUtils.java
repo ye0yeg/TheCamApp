@@ -5,7 +5,9 @@ import android.content.SharedPreferences;
 import android.util.Log;
 
 import com.alibaba.fastjson.JSON;
-import com.stickercamera.App;
+
+import lol.ye0yeg.thecamapp.stickercamera.App;
+
 
 public final class DataUtils {
 
